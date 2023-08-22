@@ -1,2 +1,2 @@
-# WDColorPicker
+# WColorPicker
 color picker
